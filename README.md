@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Jumokui
+- 👀 Here as a learning repository to begin the long journey in WebDev
+- 🌱 I’m currently learning a Coursera on WebDev
